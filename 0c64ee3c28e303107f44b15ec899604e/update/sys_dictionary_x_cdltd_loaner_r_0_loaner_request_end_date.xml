@@ -48,7 +48,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-09-30 09:08:13</sys_created_on>
-        <sys_id>36ace243596303107f44ed385203c428</sys_id>
         <sys_name>End date</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">0c64ee3c28e303107f44b15ec899604e</sys_package>
         <sys_policy/>
